@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @nonchalantyler
-- 👀 I’m interested in progressing the multi-chain defi ecosystem at scale by providing accurate data analytics compiled from a network of DEX’s & Dapps.
+- 👋 Hi, I’m @nonchalantyler and I am the Founder CEO of Tilebase.
+- 👀 Tilebase is progressing the multi-chain defi ecosystem at scale by providing accurate data analytics compiled from a network of DEX’s & Dapps.
 - 📫 How to reach me, https://www.linkedin.com/in/tyler-doiron-056744197/
 
 <!---
