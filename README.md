@@ -2,10 +2,10 @@
 
 I specialize in building innovative and concrete marketing/ brand strategies for business professionals, as well as, UI/UX design, B2B, & lead management for project development. 
 
--Defi innovator 
--Yield Strategist
--Entrepreneur
--4+ years of Graphic Design experience
+- Defi innovator 
+- Yield Strategist
+- Entrepreneur
+- 4+ years of Graphic Design experience
 
 - 👀 Tilebase is progressing the multi-chain defi ecosystem at scale by providing accurate data analytics compiled from a network of DEX’s & Dapps.
 
